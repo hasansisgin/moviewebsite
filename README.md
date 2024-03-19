@@ -7,3 +7,4 @@ With this project, I tried to design a sample movie website using HTML and CSS. 
 HTML - CSS
 
 <h2>Preview of the Project</h2>
+
