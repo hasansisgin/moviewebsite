@@ -8,3 +8,4 @@ HTML - CSS
 
 <h2>Preview of the Project</h2>
 
+![](ekrann.gif)
